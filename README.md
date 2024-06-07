@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C# & JavaScript
 - 💞️ I’m looking to collaborate on some cool projects out there
 - 📫 How to reach me:
+  - E-mail: determinant666@gmail.com
   - Instagram: @yougydmort / @kudriashik31
   - YouTube: @determinanti4978
 - 😄 Pronouns: he / him
